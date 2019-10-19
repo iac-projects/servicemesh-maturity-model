@@ -8,3 +8,4 @@ Introduce a Service Mesh maturity model to help companies in their journey to ad
 
 # The Maturity Model
 
+![Service Mesh Maturity Model](images/service-mesh-maturity-model.png)
